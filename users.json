@@ -1,0 +1,100 @@
+{
+    "admin": {
+        "password": "123",
+        "messages": [
+            {
+                "from": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "to": "admin",
+                "text": "4/kiauHza0fsg2zfPUeQJEuC+K/h55xXg2AN7hAaJBU=",
+                "time": "02.04.2025 23:00",
+                "read": true
+            },
+            {
+                "from": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "to": "admin",
+                "text": "vc+kRr8IrVsxle1aKkJezdrkymKavISymJIEnuHSEk793BjZJ//jOF37LcVWP43G",
+                "time": "02.04.2025 23:00",
+                "read": true
+            },
+            {
+                "from": "admin",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "mH6VWuxdNbmo4BgQ3e1XzkEPRCSE2HgnHS88urCAhxah7oVL6MoxpIItlRxkhp4G",
+                "time": "02.04.2025 23:01",
+                "read": false
+            },
+            {
+                "from": "admin",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "m/TnpeV0NC8kK98SaO5GxTo1MxdAd4ifauTzl9tgtP0=",
+                "time": "03.04.2025 00:04",
+                "read": false
+            }
+        ],
+        "unread": {
+            "\u0412\u0438\u043a\u0442\u043e\u0440": 0
+        }
+    },
+    "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 1": {
+        "password": "123",
+        "messages": [
+            {
+                "from": "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 1",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "k2bK2e3ohZIzttie3useZaLXj8cCpBJkFBD77pr+/zc=",
+                "time": "03.04.2025 00:05",
+                "read": false
+            }
+        ],
+        "unread": {}
+    },
+    "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 2": {
+        "password": "123",
+        "messages": [],
+        "unread": {}
+    },
+    "\u0412\u0438\u043a\u0442\u043e\u0440": {
+        "password": "123",
+        "messages": [
+            {
+                "from": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "to": "admin",
+                "text": "4/kiauHza0fsg2zfPUeQJEuC+K/h55xXg2AN7hAaJBU=",
+                "time": "02.04.2025 23:00",
+                "read": false
+            },
+            {
+                "from": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "to": "admin",
+                "text": "vc+kRr8IrVsxle1aKkJezdrkymKavISymJIEnuHSEk793BjZJ//jOF37LcVWP43G",
+                "time": "02.04.2025 23:00",
+                "read": false
+            },
+            {
+                "from": "admin",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "mH6VWuxdNbmo4BgQ3e1XzkEPRCSE2HgnHS88urCAhxah7oVL6MoxpIItlRxkhp4G",
+                "time": "02.04.2025 23:01",
+                "read": true
+            },
+            {
+                "from": "admin",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "m/TnpeV0NC8kK98SaO5GxTo1MxdAd4ifauTzl9tgtP0=",
+                "time": "03.04.2025 00:04",
+                "read": true
+            },
+            {
+                "from": "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 1",
+                "to": "\u0412\u0438\u043a\u0442\u043e\u0440",
+                "text": "k2bK2e3ohZIzttie3useZaLXj8cCpBJkFBD77pr+/zc=",
+                "time": "03.04.2025 00:05",
+                "read": true
+            }
+        ],
+        "unread": {
+            "admin": 0,
+            "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 1": 0
+        }
+    }
+}
