@@ -1,0 +1,23 @@
+# Firebase ключи
+messenger-5e77b-firebase-adminsdk-fbsvc-e266010a7b.json
+users.json
+
+# Виртуальное окружение Python
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+
+# Системные файлы
+.DS_Store
+Thumbs.db# Firebase service account keys
+messenger-5e77b-firebase-adminsdk-fbsvc-e266010a7b.json
+/serviceAccountKey.json
+/google-services.json
+
+# Дополнительная защита (шаблоны для других ключей)
+*-firebase-adminsdk-*.json
